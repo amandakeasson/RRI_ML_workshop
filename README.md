@@ -29,9 +29,9 @@ Open Anaconda Prompt (Windows) or Terminal (Mac) and run the following:
 
 `cd ~`  
 
-`git clone https://www.github.com/amandakeasson/rriML`  
+`git clone https://www.github.com/amandakeasson/RRI_ML_workshop`  
 
-`cd rriML`  
+`cd RRI_ML_workshop`  
 
 `pip install -r requirements.txt` 
 
