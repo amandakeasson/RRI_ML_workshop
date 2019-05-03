@@ -8,9 +8,10 @@ You have two options for running the Jupyter notebooks:
 
 #### OPTION 1: run on Google Colab
 
-All you need is a Google account and either Google Chrome or Firefox.  
+All you need is a Google account and Google Chrome.  
 See the FAQ if you would like to learn more about Google Colab:
-https://research.google.com/colaboratory/faq.html
+https://research.google.com/colaboratory/faq.html  
+(According to the FAQ, the desktop version of Firefox should also work.)
 
 #### OPTION 2: run locally
 
