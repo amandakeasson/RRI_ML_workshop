@@ -21,7 +21,7 @@ Open Anaconda Prompt (Windows) or Terminal (Mac) and run the following:
 
 `conda create -n rriML python=3`  
 
-`source activate rriML`  
+`conda activate rriML` (if that doesn't work, try `source activate rriML`) 
 
 `conda install git`  
 
