@@ -31,5 +31,6 @@ Open Anaconda Prompt (Windows) or Terminal (Mac) and run the following:
 `cd rriML`  
 
 `pip install -r requirements.txt` 
+
 `python download_nilearn_data.py`
 
