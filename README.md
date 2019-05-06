@@ -41,7 +41,8 @@ Open Anaconda Prompt (Windows) or Terminal (Mac) and run the following:
 
 On May 9th after 4pm, run the following to download additional materials that have been posted:
 
-`cd ~/RRI_ML_workshop`
+`cd ~/RRI_ML_workshop`  
+
 `git pull`
 
 
