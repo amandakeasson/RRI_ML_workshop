@@ -3,7 +3,9 @@
 
 Links to Jupyter notebooks will be posted here by May 9th!
 
-You have two options for running the Jupyter notebooks:
+You have two options for running the Jupyter notebooks. Running the notebooks on Google Colab (i.e. Option 1) is easier, but will require an internet connection. The internet connection *should* be okay in Loftus Hall, but just in case, I would recommend downloading the software locally (i.e. Option 2) if you can. 
+
+Please contact me if you have any questions! 
 
 
 #### OPTION 1: run on Google Colab
@@ -36,4 +38,10 @@ Open Anaconda Prompt (Windows) or Terminal (Mac) and run the following:
 `pip install -r requirements.txt` 
 
 `python download_nilearn_data.py`
+
+On May 9th after 4pm, run the following to download additional materials that have been posted:
+
+`cd ~/RRI_ML_workshop`
+`git pull`
+
 
