@@ -1,7 +1,12 @@
 # Materials for the Introduction to Machine Learning Workshop
 
 
-Links to Jupyter notebooks will be posted here by May 9th!
+The Jupyter notebooks and other workshop materials have now been uploaded.  
+
+The notebook files are:  
+* rriML_sklearn.ipynb  
+* rriML_nilearn_neuropredict.ipynb  
+
 
 You have two options for running the Jupyter notebooks. Running the notebooks on Google Colab (i.e. Option 1) is easier, but will require an internet connection. The internet connection *should* be okay in Loftus Hall, but just in case, I would recommend downloading the software locally (i.e. Option 2) if you can. 
 
